@@ -1,0 +1,6 @@
+C:\Users\marty\Documents\snake Q-RL\Snake Q-RL\bin\Debug\Snake Q-RL.exe.config
+C:\Users\marty\Documents\snake Q-RL\Snake Q-RL\bin\Debug\Snake Q-RL.exe
+C:\Users\marty\Documents\snake Q-RL\Snake Q-RL\bin\Debug\Snake Q-RL.pdb
+C:\Users\marty\Documents\snake Q-RL\Snake Q-RL\obj\Debug\Snake Q-RL.exe
+C:\Users\marty\Documents\snake Q-RL\Snake Q-RL\obj\Debug\Snake Q-RL.pdb
+C:\Users\marty\Documents\snake Q-RL\Snake Q-RL\obj\Debug\Snake Q-RL.csprojAssemblyReference.cache
